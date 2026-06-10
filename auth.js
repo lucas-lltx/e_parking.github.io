@@ -11,7 +11,6 @@ import {
   GoogleAuthProvider,
   signInWithPopup,
   GithubAuthProvider,
-  FacebookAuthProvider,
   updateEmail,
   updatePassword,
   deleteUser,
